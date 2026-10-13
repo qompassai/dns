@@ -13,8 +13,8 @@
 [![DNS Standard](https://img.shields.io/badge/DNS-IETF-blueviolet?style=for-the-badge&logo=dns&logoColor=white)](https://datatracker.ietf.org/wg/dnsop/documents/) <br>
 [![DNS Documentation](https://img.shields.io/badge/DNS_Documentation-blue?style=flat-square)](https://www.cloudflare.com/learning/dns/what-is-dns/)
 [![DNS Tutorials](https://img.shields.io/badge/DNS_Tutorials-green?style=flat-square)](https://github.com/topics/dns) <br>
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-<a href="./LICENSE-QCDA"><img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA"></a>
+<a href="./LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache 2.0"></a>
+
 
 
 </p>
@@ -268,3 +268,7 @@ By offering both open source and commercial licensing options, we strive to crea
 <p id="ref8"><strong>[8]</strong> <a href="https://therecord.media/minneapolis-schools-say-data-breach-affected-100000/">Minneapolis school district says data breach affected more than 100,000 people</a></p>
 </div>
 </details>
+
+## License
+
+This project is licensed under the [Apache License, Version 2.0](./LICENSE).
